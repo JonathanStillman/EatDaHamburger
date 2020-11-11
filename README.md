@@ -1,5 +1,8 @@
 # EatDaHamburger
 
+## Navigate
+Navigate to [Demo](https://calm-peak-07808.herokuapp.com/) hosted on [Heroku](https://www.heroku.com/).
+
 ## Overview
 This app allows the user to create and "eat" burgers using MySQL, Node, Express, Handlebars and ORM.  The user can enter a burger into the text box and that burger will then appear in a list of available burgers. The user can then "eat" the burger which sends it into a list of "devoured burgers". Lastly, the burger can be fully deleted from the app. 
 
